@@ -16,7 +16,7 @@ chrono = { version = "0.4", default-features = false, features = ["clock", "std"
 ego-tree = "0.11"
 encoding_rs = "0.8.44"
 futures-util = "0.3"
-getrandom = "0.3"
+getrandom = "0.4"
 hex = "0.4"
 k256 = { version = "0.14", features = ["ecdsa"] }
 reqwest = { version = "0.13", features = ["json", "stream", "gzip"] }
