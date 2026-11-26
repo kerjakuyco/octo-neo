@@ -16,7 +16,7 @@
     "deploy": "node build.mjs --site-url=https://octoneo.xyz && wrangler deploy"
   },
   "devDependencies": {
-    "wrangler": "4.157.0"
+    "wrangler": "4.166.0"
   },
   "pnpm": {
     "ignoredBuiltDependencies": [
